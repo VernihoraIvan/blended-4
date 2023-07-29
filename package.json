@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/VernihoraIvan/blended-4#readme",
   "dependencies": {
+    "chalk": "^4.1.2",
+    "joi": "^17.9.2",
     "yargs": "^17.7.2",
     "yarn": "^1.22.19"
   }
