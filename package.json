@@ -1,0 +1,25 @@
+{
+  "name": "blended-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VernihoraIvan/blended-4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VernihoraIvan/blended-4/issues"
+  },
+  "homepage": "https://github.com/VernihoraIvan/blended-4#readme",
+  "dependencies": {
+    "yargs": "^17.7.2",
+    "yarn": "^1.22.19"
+  }
+}
