@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -20,8 +21,13 @@
   "homepage": "https://github.com/VernihoraIvan/blended-4#readme",
   "dependencies": {
     "chalk": "^4.1.2",
+    "express": "4.17.1",
     "joi": "^17.9.2",
+    "morgan": "1.10.0",
     "yargs": "^17.7.2",
     "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
   }
 }
